@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
-              Image.asset('assets/loc.png', width: 200), // Ganti dengan gambar traveler
+              Image.asset('assets/loc.jpg', width: 200), // Ganti dengan gambar traveler
               const SizedBox(height: 20),
               Container(
                 padding: const EdgeInsets.all(16),
